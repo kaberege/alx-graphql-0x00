@@ -35,10 +35,10 @@ alx-graphql-0x00/
 - **Objective:** Use `episode(id: ID!)` to retrieve episode details.
 - **Fields Queried:** `id`, `name`, `air_date`, `episode`
 - **Files:**  
-  - `episode-id-1.graphql` → `episode-id-1-output.json`
-  - `episode-id-2.graphql` → `episode-id-2-output.json`
-  - `episode-id-3.graphql` → `episode-id-3-output.json`
-  - `episode-id-4.graphql` → `episode-id-4-output.json`
+  - `episode-page-1.graphql` → `episode-page-1-output.json`
+  - `episode-page-2.graphql` → `episode-page-2-output.json`
+  - `episode-page-3.graphql` → `episode-page-3-output.json`
+  - `episode-page-4.graphql` → `episode-page-4-output.json`
 
 ## 🔗 GraphQL Endpoint
 
